@@ -1,2 +1,4 @@
 # DCAG
-WOMEN IN AI
+WOMEN IN AI Hackathon
+
+
